@@ -3,7 +3,7 @@
 **Version:** 2.0.2  
 **Author:** Emmanuel Eluwa  
 **Website:** [emmanueleluwa.com](https://emmanueleluwa.com)  
-**GitHub:** [github.com/nueleluwa/Auto-Delete-Comments](https://github.com/nueleluwa/Auto-Delete-Comments)  
+**GitHub:** [github.com/nueleluwa/advanced-comment-cleanup-tool](https://github.com/nueleluwa/advanced-comment-cleanup-tool/))  
 **WordPress Profile:** [profiles.wordpress.org/luwie93](https://profiles.wordpress.org/luwie93/)  
 **License:** GPL v2 or later
 
@@ -14,7 +14,7 @@ A modern, production-ready WordPress plugin that automatically deletes comments 
 ![License](https://img.shields.io/badge/License-GPL%20v2-green)
 ![Version](https://img.shields.io/badge/Version-2.0.2-orange)
 
-### 🎯 Quality Ratings
+### Quality Ratings
 - **Code Quality:** A+ (WordPress VIP Standards)
 - **Security:** A+ (No vulnerabilities)
 - **Performance:** Excellent (Optimized queries)
@@ -22,7 +22,7 @@ A modern, production-ready WordPress plugin that automatically deletes comments 
 
 ---
 
-## 📋 Version 2.0.2 Updates
+## Version 2.0.2 Updates
 
 **WordPress.org Review Compliance**
 - ✅ Plugin renamed for distinctiveness
@@ -33,7 +33,7 @@ A modern, production-ready WordPress plugin that automatically deletes comments 
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ **Automatic Deletion** - Schedule batch deletions every 1-60 minutes
 - ✅ **Selective Processing** - Choose spam, pending, approved, or trash
@@ -46,7 +46,7 @@ A modern, production-ready WordPress plugin that automatically deletes comments 
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. Download the latest release
 2. Go to Plugins → Add New → Upload Plugin
@@ -54,7 +54,7 @@ A modern, production-ready WordPress plugin that automatically deletes comments 
 
 ---
 
-## 🔌 REST API
+## REST API
 
 ```http
 GET /wp-json/advanced-comment-cleanup/v1/stats
@@ -65,16 +65,16 @@ Authentication: Requires `manage_options` capability
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Emmanuel Eluwa**
 - Website: [emmanueleluwa.com](https://emmanueleluwa.com)
 - GitHub: [@nueleluwa](https://github.com/nueleluwa)
-- Company: [Brela.ng](https://brela.ng)
+- Company: [brela.agency](https://brela.agency)
 
 ---
 
-## 📄 License
+## License
 
 GPL v2 or later
 
